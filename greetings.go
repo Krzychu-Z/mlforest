@@ -1,4 +1,4 @@
-package github.com/Krzychu-Z/mlforest
+package mlforest
 
 import "fmt"
 
